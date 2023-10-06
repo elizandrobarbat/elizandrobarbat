@@ -2,7 +2,7 @@
 
 **Me chamo Elizandro Barbat**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizandrobarbat&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizandrobarbat&theme=github_dark&show_icons=true)
 
 🎓 Especialista em Power BI
 
